@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VpicHost", "VpicHost\VpicHost.csproj", "{BEE671C9-09A9-49E1-AFB8-27106947DC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VpicHost.Console", "VpicHost.Console\VpicHost.Console.csproj", "{46443709-909B-4CEA-BAC2-97A4DC46FF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE671C9-09A9-49E1-AFB8-27106947DC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE671C9-09A9-49E1-AFB8-27106947DC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE671C9-09A9-49E1-AFB8-27106947DC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE671C9-09A9-49E1-AFB8-27106947DC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46443709-909B-4CEA-BAC2-97A4DC46FF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46443709-909B-4CEA-BAC2-97A4DC46FF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46443709-909B-4CEA-BAC2-97A4DC46FF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46443709-909B-4CEA-BAC2-97A4DC46FF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
